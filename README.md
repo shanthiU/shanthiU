@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Shanthi U
+@Shanthi U
+Practice makes a man perfect
+
 
 
 <!---
