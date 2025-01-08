@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shanthiU
+- 👋 Hi, I’m @Shanthi U
 
 
 <!---
